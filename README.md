@@ -230,7 +230,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Links
 
-- [Live Demo](https://your-demo-url.com)
+- [Live Demo](hhttps://glistening-faloodeh-7c51ad.netlify.app/)
 - [Documentation](https://docs.your-project.com)
 - [BSC Testnet Explorer](https://testnet.bscscan.com)
 - [Supabase](https://supabase.com)
