@@ -174,28 +174,22 @@ node cli/ipfs.mjs
 ```
 
 ## 🔧 Configuration
-
 ### MetaMask Setup
-
 1. Add BSC Testnet to MetaMask:
    - Network Name: BSC Testnet
    - RPC URL: https://data-seed-prebsc-1-s1.binance.org:8545
    - Chain ID: 97
    - Symbol: tBNB
    - Block Explorer: https://testnet.bscscan.com
-
 2. Get testnet BNB from [BSC Testnet Faucet](https://testnet.binance.org/faucet-smart)
 
 ### Pinata Setup
-
 1. Create account at [Pinata](https://pinata.cloud)
 2. Generate JWT token
 3. Add to environment variables
 
 ## 🚨 Troubleshooting
-
 ### Common Issues
-
 **Connection Failed**
 - Check internet connectivity
 - Verify Supabase URL and keys
@@ -217,7 +211,6 @@ node cli/ipfs.mjs
 - Ensure sufficient BNB for gas
 
 ## 🤝 Contributing
-
 1. Fork the repository
 2. Create a feature branch: `git checkout -b feature/amazing-feature`
 3. Commit changes: `git commit -m 'Add amazing feature'`
@@ -225,31 +218,27 @@ node cli/ipfs.mjs
 5. Open a Pull Request
 
 ## 📄 License
-
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🔗 Links
-
 - [Live Demo](https://glistening-faloodeh-7c51ad.netlify.app/)
 - [Documentation](https://docs.your-project.com)
 - [BSC Testnet Explorer](https://testnet.bscscan.com)
 - [Supabase](https://supabase.com)
 - [IPFS](https://ipfs.io)
+- [YouTube Demo Video](https://youtu.be/iAlgaMg3Jlw)
 
 ## 📞 Support
-
 For support and questions:
 - Create an issue on GitHub
 - Join our [Discord](https://discord.gg/your-server)
-- Email: support@alphaaistorage.com
+- Email: [support@alphaaistorage.com](mailto:support@alphaaistorage.com)
 
 ## 🙏 Acknowledgments
-
 - [Supabase](https://supabase.com) for backend infrastructure
 - [Pinata](https://pinata.cloud) for IPFS pinning services
 - [BSC](https://www.binance.org/en/smartChain) for blockchain infrastructure
 - [React](https://reactjs.org) and [Vite](https://vitejs.dev) for frontend tooling
 
 ---
-
 **⚠️ Disclaimer**: This is a testnet application for demonstration purposes. Do not use real funds or sensitive data.
